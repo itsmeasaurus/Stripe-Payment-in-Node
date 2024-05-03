@@ -1,0 +1,36 @@
+{
+    "music": [
+        {
+            "id": 1,
+            "title": "Album 1",
+            "price": 999,
+            "imgName": "Album 1.png"
+        },
+        {
+            "id": 2,
+            "title": "Album 2",
+            "price": 999,
+            "imgName": "Album 2.png"
+        },
+        {
+            "id": 3,
+            "title": "Album 3",
+            "price": 999,
+            "imgName": "Album 3.png"
+        },
+        {
+            "id": 4,
+            "title": "Album 4",
+            "price": 999,
+            "imgName": "Album 4.png"
+        }
+    ],
+    "shirt": [
+        {
+            "id": 5,
+            "title": "Shirt",
+            "price": 344,
+            "imgName": "Shirt.png"
+        }
+    ]
+}
